@@ -9,9 +9,9 @@ This is a **prototype with sample data**. The records, photos, and map are for d
 | Page | What it shows |
 |---|---|
 | Sign in | Sign-in page for DPWH Mindoro Occidental DEO personnel |
-| Damage Map | Detected road damage on a map of national roads in Occidental Mindoro, with filters by damage type and status |
-| Damage Records | All records with search, filters (type, municipality, status, date), and sorting |
-| Damage Record | One record: photo with the detected damage, GPS location, estimated size, and damage history from every scan |
+| Damage Map | Detected road damage on a map of national roads in Occidental Mindoro, with a filter by damage type |
+| Damage Records | All records with search, filters (type, municipality, date), and sorting |
+| Damage Record | One record: photo with the detected damage, GPS location, estimated size, and the date and time it was detected |
 | Reports | Report settings and a report preview that can be printed or exported |
 
 Open a page directly by adding its name to the address: `#login`, `#map`, `#records`, `#details`, `#reports`.
